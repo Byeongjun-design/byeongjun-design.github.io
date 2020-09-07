@@ -1,4 +1,4 @@
 # Byeongjun Kim
 Design Portfolio
 
-[Project](https://www.naver.com)
+[Project](project.md)
