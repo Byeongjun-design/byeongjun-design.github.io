@@ -1,2 +1,0 @@
-# Byeongjun Kim
-Design Portfolio
